@@ -22,8 +22,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg
 
 # About My Github
 <div align="center">
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=xhnbzdl&show_icons=true&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhnbzdl&layout=compact&theme=cobalt" align="center" />
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api?username=xhnbzdl&show_icons=true&theme=cobalt" align="center" />
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhnbzdl&layout=compact&theme=cobalt" align="center" />
 </div>  
 
 <br/>  
