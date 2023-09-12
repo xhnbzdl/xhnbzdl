@@ -94,8 +94,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jontymin/count.svg" />
-</p>
