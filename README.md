@@ -100,14 +100,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg
 </a>
 </div>  
   
-
-<br/>  
-<br/>  
-<br/>  
-
-
-#
-
-© 2022 Made with ❤ by [profilinator](https://profilinator.rishav.dev/)
-
-<br/>  <br/>
