@@ -22,12 +22,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg
 
 # About My Github
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhnbzdl&layout=compact&langs_count=8&theme=cobalt)](https://github.com/xhnbzdl/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=xhnbzdl&show_icons=true&theme=cobalt)](https://github.com/xhnbzdl/github-readme-stats)-->
-
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhnbzdl&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhnbzdl&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=xhnbzdl&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
@@ -99,4 +94,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jontymin/count.svg" />
+</p>
